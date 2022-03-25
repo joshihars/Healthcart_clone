@@ -8,5 +8,10 @@ HealthKart is an online health and fitness store for men and women, which offers
 
 ![Gift](https://user-images.githubusercontent.com/93377385/160084443-2f24e22a-b129-4c71-b750-f3a5c46a2c7e.png)
 
+3.Payment Page
+
+![Payment](https://user-images.githubusercontent.com/93377385/160084630-62ab311d-78d8-4234-b12d-6dea7f458c86.png)
+
+
 
 
